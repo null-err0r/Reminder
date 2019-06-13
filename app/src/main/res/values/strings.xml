@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Reminder</string>
+    <string name="titleHint">Title</string>
+    <string name="reminderHint">Enter a reminder...</string>
+    <string name="delete">Delete</string>
+    <string name="empty">No items.</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+</resources>
